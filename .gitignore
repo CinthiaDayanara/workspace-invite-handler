@@ -1,0 +1,40 @@
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de dependencias
+node_modules/
+package-lock.json
+yarn.lock
+vendor/
+
+# Ignorar archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Ignorar archivos específicos de logs y cachés
+*.log
+*.bak
+*.swp
+
+# Ignorar claves o tokens
+*.pem
+*.key
+*.crt
+*.pfx
+*.jks
+*.cer
+*.token
+
+# Ignorar archivos generados
+dist/
+build/
+
+# Ignorar directorios de salida de compilación
+bin/
+obj/
+
+# Ignorar archivos temporales
+*~
+
