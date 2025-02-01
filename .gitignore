@@ -3,8 +3,7 @@
 .idea/
 
 # Ignorar archivos de dependencias
-node_modules/
-package-lock.json
+
 yarn.lock
 vendor/
 
