@@ -68,6 +68,6 @@ curl -X POST http://localhost:5010/invites/123/respond -H "Content-Type: applica
     "status": "accepted"
   }
 }
-```
+
 
 
