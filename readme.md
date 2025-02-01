@@ -44,7 +44,7 @@ npm install
 ```sh
 npm start
 ```
-Or using Docker
+Or using Docker:
 ```sh
 docker-compose up --build
 ```
